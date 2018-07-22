@@ -1,4 +1,4 @@
-# Thinking the future prediction is a dream well not now the following project predicts 2019 cricket worldcup as well as best 11 playrs of our cricket team
+# Thinking the future prediction is a dream well not now the following project predicts 2019 cricket worldcup as well as best 11 players of our cricket team
 ## 1.contains 3 datasets for prediction
 ## 2.I have used 2 algos for the prediction 
   ### 2.a. Gaussian SVM
