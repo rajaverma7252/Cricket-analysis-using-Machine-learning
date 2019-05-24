@@ -4,4 +4,6 @@
   ### 2.a. Gaussian SVM
   ### 2.b.logistic Regression
 ## 3.There are 2 seperate .py files one for predicting the worldcup and one for the dream 11 or the best 11 predictor
-
+This project has been made by :-
+1. Raja
+2. Raunak Goswami
